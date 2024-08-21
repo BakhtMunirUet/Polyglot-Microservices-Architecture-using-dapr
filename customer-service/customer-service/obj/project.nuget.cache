@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "5cF26kyUk6F1AJ19wbgc8MK/qeFhwOXjNpiFkbvHC0Xn+7E6LDDtoGClr8RxgLtiTbaaJs8mvEbeUQLGv/Cl7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\use\\Desktop\\daprLearning\\customer-service\\customer-service\\customer-service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\use\\.nuget\\packages\\dapr.aspnetcore\\1.14.0\\dapr.aspnetcore.1.14.0.nupkg.sha512",
+    "C:\\Users\\use\\.nuget\\packages\\dapr.client\\1.14.0\\dapr.client.1.14.0.nupkg.sha512",
+    "C:\\Users\\use\\.nuget\\packages\\google.api.commonprotos\\2.2.0\\google.api.commonprotos.2.2.0.nupkg.sha512",
+    "C:\\Users\\use\\.nuget\\packages\\google.protobuf\\3.15.0\\google.protobuf.3.15.0.nupkg.sha512",
+    "C:\\Users\\use\\.nuget\\packages\\grpc.core.api\\2.52.0\\grpc.core.api.2.52.0.nupkg.sha512",
+    "C:\\Users\\use\\.nuget\\packages\\grpc.net.client\\2.52.0\\grpc.net.client.2.52.0.nupkg.sha512",
+    "C:\\Users\\use\\.nuget\\packages\\grpc.net.common\\2.52.0\\grpc.net.common.2.52.0.nupkg.sha512",
+    "C:\\Users\\use\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\use\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\use\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\use\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\use\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\use\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\use\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\use\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\use\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
